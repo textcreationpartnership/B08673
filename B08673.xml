@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat, for my countreymen in general, the assessors and collectors of publick taxes, in particular. Most dear countreymen, I dayly hear the groanes of some of you perishing, others despairing, all languishing; yet, methinks, I cannot afford you such pity as the sadness of your condition might seem to challenge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08673</idno>
+            <idno type="STC">Wing C1612A</idno>
+            <idno type="STC">ESTC R224291</idno>
+            <idno type="EEBO-CITATION">64551050</idno>
+            <idno type="OCLC">ocm 64551050</idno>
+            <idno type="VID">184433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184433)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat, for my countreymen in general, the assessors and collectors of publick taxes, in particular. Most dear countreymen, I dayly hear the groanes of some of you perishing, others despairing, all languishing; yet, methinks, I cannot afford you such pity as the sadness of your condition might seem to challenge.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Tax collection --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184433:1"/>
+            <head>A Caveat, for my Countreymen in General, the Aſſeſſors and Collectors of Publick Taxes, in Particular.</head>
+            <opener>
+               <salute>Moſt Dear Countreymen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Dayly hear the Groanes of ſome of you Periſhing, others Deſpairing, all Languiſhing; Yet, methinks, I cannot afford you ſuch Pity as the ſadneſs of your Condition might ſeem to challenge. Can we pity one, who being tormented with a ſharp Gout, will not forbear French Wine and ſaltmeats? Such, if I have ſenſe, is your Caſe: Your diſeaſe cannot well be ſubdued by ſtrong Phyſick, but may ſoon be ſtarved: Diet is your onely medicine: Keep, in Gods name, your hands from your mouths, and expect his bleſſing upon your ſobriety and Patience. Your mony is your Poyſon: Therefore forbear contributing againſt your ſelves. Do this, Or you do nothing, Without it, your Addreſſes are ridiculous, your declaring is prepo<g ref="char:EOLhyphen"/>ſterous, And your Arming will be, moſt of all, pernicious; What care they for your words, ſo long as they have your Pur<g ref="char:EOLhyphen"/>ſes ſtill open? Stop that ſource, and they will ſoon feel it, though they cannot reſent it, to your Prejudice; The worſt they can do, is to diſtrain, perhaps riſſe ſome few, for terrour, who, ſuffering in a common cauſe, ought, in Equity and prudence, to be reimburſed from a Common Stock: And, if you muſt be aſſeſſed, that way, let it go. What means can you propound to redeem your ſelves, ſo cheap, ſo ſafe, ſo certain? If, yet, you will not purſue this wholſom and neceſſary advice, I call God to witneſs, You are not worthy of Liberty, or Peace; And pity it were, you ſhould be relieved with the heart<g ref="char:EOLhyphen"/>blood of honeſt, and brave men, who will not venture the Paring of your own Nayles.</p>
+            <p>Trie now, whether the Red-Coats will yet add to their inſolencies, that of univerſal Rapine. Poſſibly, they may beware, poſſibly they may relent: Whether any Judge or Jury will aſſert ſo lame an Authority, Where the tenth Part of a Parliament, (owning the Excluſion of the other nine, by meer force, without cauſe ſhewn, or pretended,) aſſumes not onely the Authority of an Entire Parliament, but a power to act above all Law, or precedent, and againſt common Right, rather as abſolute Lords, then Repreſentatives, and truſtees of the people; Whereas, it is the grand fundamental of ours, and, indeed, of all Laws, That the forcible excluſion of any one Member vacates all proceedings, during the force, As doth appear by the caſe of the Excluded Members, lately publiſhed at large, To which I referre you, for full ſatisfaction in the premiſſes.</p>
+            <p>Of Juries, I am very Confident, And of the Reverend Judges, methinks, I cannot but hope well, Their wiſdom ſeeming, every way, equally concerned with their Juſtice, They will, I doubt not, remember the Caſes of <hi>Treſſilian,</hi> and Shipmoney, both infinitely ſhort of this. However, the worſt that can be feared, is but for a few to looſe that in groſs, which, elſe, they, and all of us muſt look in a ſhort time to part with by retaile, The Gangreen Poverty creeping apace from joynt to joynt.</p>
+            <p>Our Grandees will, perhaps, endevour to amuſe you, by filling up their houſe, their own Way; Yer ſo, as to make ſure of continuing their own Power, and your grievances. For do not think, their Intereſt can conſiſt with your Eaſe; But, for Gods ſake, Is it not the ſame Oppreſſion, Whether by theſe alone, Or theſe with others, conſtituted, qualified, limited, and finally awed by them? Is this a free Parliament, to command your purſes, or a miſt caſt before your eyes, whilſt your pockets are picked? I truſt, After ſo many experiences, your underſtandings are, by this time, more refined, then to be ſo groſſely impoſed upon.</p>
+            <p>In five Moneths time (for, ſo long their laſt Seſſion continued,) they ſwallowed a whole Years Aſſeſſement of 50000 <hi>l.</hi> Monethly, Beſides the project of the <hi>Militia,</hi> which, under another name, (a ſtale impoſture) amounted to a full Tax; Yet, as <hi>Pharach</hi>'s Iean Kine, having devoured the fat, did not thrive, ſo, all this being diſpoſed of, in a trice, and the Ex<g ref="char:EOLhyphen"/>chequer left empty, During the late <hi>Interregnum,</hi> the Army, being unpay'd, lay upon Free-quatter, as if no Taxes had been levyed, And the Souldiers, in many places, excorted what they pleaſed from the Countrey, with all the Licentiouſneſs of an Actual war; Yet, now (their years Aſſeſſement not expiring theſe four moneths,) they have, it ſeems, the Confi<g ref="char:EOLhyphen"/>dence already, to double our files, (for the Bill, I hear, is engroſſed,) with a monethly Tax of a 100000 <hi>l.</hi> for ſix moneths; But, withal, I ſuppoſe, they will have the Modeſty, not to tell us, When this Vaſt burthen ſhall ceaſe, Or that the next ſhall not yet advance, as their Occaſions, (the Rule and meaſure of our property) probably may. A hopeful, and comfortable Introduction of our freedom.</p>
+            <p>Some Hotſpurs will, perhaps, incite you to aſſert your Liberties by Tumults; But, believe it, this advice comes from <hi>Weſtminſter,</hi> where they long, and lie at lurch for ſuch advantages, that, hitting the blots you make, they may ſupport them<g ref="char:EOLhyphen"/>ſelves with your ſpoyles, (the onely hope of ſubſiſting now left them:) Conſult not therefore with your Enemies, Con<g ref="char:EOLhyphen"/>ſider the Ruinous fate of Plots and Inſurrections, Remember Mr. <hi>Gerard,</hi> Sir <hi>Henry Slingsby,</hi> Dr. <hi>Hewet,</hi> and Sir <hi>George Booth,</hi> moſt of them, evidently trepanned. Your Game is ſure, if you lift your ſelves, And will you venture it at Dice, among the Rookes? Be adviſed, Hold your Parſeſtrings, (A Counſel, one would think, to moſt men plauſible enough) Nothing can ſo certainly, ſafely, and ſuddenly, relieve you.</p>
+            <p>And you my friends, The Aſſeſſors, Collectors, <hi>&amp;c.</hi> to whom is committed the Charge of Aſſeſſing and Levying ſuch <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> legal Taxes, upon your Neighbours and fellow-ſubjects, (For, without your Ayd, God knows, the Red-Coats are not able to force contribution, perhaps, from one ſingle County,) Beware how ye act againſt the Law of the Land, the Liberty of your Countrey, the ſenſe of the whole Nation: No Law compels you to ſo mean a Drudgery, No Salary tempts you. And will you, then, to curry favour with times, which may alter to morrow, undertake ſo barren, and thankleſs, ſo guilty, and Odious an employment? Have you Eſtates ſufficient to anſwer the infinite Actions, to which you will be lyable in Law? Remember, That, Contribution payed to the Cavaliers was, indeed, purged from delinquency, by pleading the force, But to have Aſſeſſed, or collected for them, proved alwayes matter of ſequeſtration, that being conſtrued as a Voluntary Act; Conſider the ſcandal, which (already, even in theſe times) Committee-men, Sequeſtrators, Exciſe-men, <hi>&amp;c.</hi> have contracted, perhaps, to deſcend to their poſterities; Read in ſtories, To what fury of the people, and rigour of Laws, publicanes, and other Miniſters of Violence have been alwayes expoſed, when the powers, by which they acted, ceaſed. Believe it, Freedom will ſoon break forth, the ſooner, if you Obſtruct it not, All things, by the ſpecial hand of providence, tend that way, And though other means ſhould fail, Common exigence will prove a ſure Card: Methinks you are not very ſafe, even as things now ſtand, The Collection of Taxes, not impoſed by common conſent in Parliament, (which, ſure, you will not affirm to be, in this Caſe) being, (from a high Miſdemeanour, branded by former Laws,) made the higheſt Treaſon, by a late ſolemn, and ſevere Act of their own: But, if times ſhould alter, think, What will become of you? Will it not be your beſt refuge, to run your Countrey? Accurſed be that future power, which protects, or indempnifies you. And now, I hope, enough is ſaid for warning: If not, Mark the end, and take what comes of it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>[<hi>London, Printed</hi> 1660.]</p>
+         </div>
+      </back>
+   </text>
+</TEI>
